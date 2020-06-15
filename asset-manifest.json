@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MintBean_0615/static/css/main.5f361e03.chunk.css",
+    "main.js": "/MintBean_0615/static/js/main.47082270.chunk.js",
+    "main.js.map": "/MintBean_0615/static/js/main.47082270.chunk.js.map",
+    "runtime-main.js": "/MintBean_0615/static/js/runtime-main.d9f6473d.js",
+    "runtime-main.js.map": "/MintBean_0615/static/js/runtime-main.d9f6473d.js.map",
+    "static/js/2.f4de6fd8.chunk.js": "/MintBean_0615/static/js/2.f4de6fd8.chunk.js",
+    "static/js/2.f4de6fd8.chunk.js.map": "/MintBean_0615/static/js/2.f4de6fd8.chunk.js.map",
+    "index.html": "/MintBean_0615/index.html",
+    "precache-manifest.687ea98187f7b95ccac5f367fe1f8ed3.js": "/MintBean_0615/precache-manifest.687ea98187f7b95ccac5f367fe1f8ed3.js",
+    "service-worker.js": "/MintBean_0615/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/MintBean_0615/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.f4de6fd8.chunk.js.LICENSE.txt": "/MintBean_0615/static/js/2.f4de6fd8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d9f6473d.js",
+    "static/js/2.f4de6fd8.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.47082270.chunk.js"
+  ]
+}
